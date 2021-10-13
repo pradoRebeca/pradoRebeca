@@ -1,6 +1,6 @@
 ### Olá, eu sou a Rebeca Prado 👋
-- 🔭 Estou em busca de estagio na área de programação 
-- 🌱 Atualmente estou cursando o segundo semestre de Desenvolvimento de Sitemas no Senai-Jandira 
+- 🔭 Estou em busca de estágio na área de programação 
+- 🌱 Atualmente estou cursando o segundo semestre de Desenvolvimento de Sistemas no Senai-Jandira 
 
 
 <div align="center">
