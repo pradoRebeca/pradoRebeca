@@ -9,12 +9,11 @@
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
-  <img align="center" alt="Java" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919854.png">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/528/528260.png">
-  <img align="right" alt="pradoRebeca" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_bEhhLXhu.png">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+  <img align="center" alt="React Native" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+  <img align="center" alt="Postgres" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
+  <img align="center" alt="MySQL" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </div>
 
 ##
