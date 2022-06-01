@@ -14,7 +14,7 @@
   <img align="center" alt="React Native"  height="30" width="35"  style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
   <img align="center" alt="Postgres"  height="30" width="35"  style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
   <img align="center" alt="MySQL" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-   <img align="center" alt="MongoDB" height="30" width="35"  src="[https://cdn-icons-png.flaticon.com/512/919/919836.png](https://www.propus.com.br/wp-content/uploads/2016/08/mongodb.png)">
+   <img align="center" alt="MongoDB" height="30" width="35"  src="https://www.propus.com.br/wp-content/uploads/2016/08/mongodb.png">
 </div>
 
 ##
