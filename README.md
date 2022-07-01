@@ -1,6 +1,6 @@
 ### Olá, eu sou a Rebeca Prado 👋
 - 🌱 Técnica em Desenvolvimento de Sistemas - SENAI Prof. Vicente Amato Jandira
-- 🌱 stagiária em Desenvolvimento de Sistemas na Empresa AdviseU
+- 🌱 Estagiária em Desenvolvimento de Sistemas na Empresa AdviseU
 
 
 <div align="center">
