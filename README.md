@@ -1,5 +1,5 @@
 ### Olá, eu sou a Rebeca Prado 👋
-- 🌱 Atualmente estou cursando o terceiro semestre de Desenvolvimento de Sistemas no Senai-Jandira 
+- 🌱 Técnica em Desenvolvimento de Sistemas - SENAI Prof. Vicente Amato Jandira
 
 
 <div align="center">
@@ -9,12 +9,13 @@
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   <img align="center" alt="React Native"  height="30" width="35"  style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
   <img align="center" alt="Postgres"  height="30" width="35"  style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
   <img align="center" alt="MySQL" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-   <img align="center" alt="MongoDB" height="30" width="35"  src="https://rodrigoreisf.files.wordpress.com/2019/01/4d57e-1NRCOyVBY6Jiqr4Q9A1zoaQ.png">
+  <img align="center" alt="MongoDB" height="30" width="35"  src="https://rodrigoreisf.files.wordpress.com/2019/01/4d57e-1NRCOyVBY6Jiqr4Q9A1zoaQ.png">
+  <img align="center" alt="Docker" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="center" alt="TypeScript" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </div>
 
 ##
