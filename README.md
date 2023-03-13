@@ -1,6 +1,6 @@
 ### Olá, eu sou a Rebeca Prado 👋
 - 🌱 Técnica em Desenvolvimento de Sistemas - SENAI Prof. Vicente Amato Jandira
-- 🌱 Estagiária em Desenvolvimento de Sistemas na Empresa AdviseU
+- 🌱 Desenvolvedora Junior na Empresa AdviseU
 
 
 <div align="center">
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradoRebeca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradoRebeca&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <div style="display: inline_block"><br>
+<!--  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   <img align="center" alt="React Native"  height="30" width="35"  style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
@@ -17,7 +17,7 @@
   <img align="center" alt="MongoDB" height="30" width="35"  src="https://rodrigoreisf.files.wordpress.com/2019/01/4d57e-1NRCOyVBY6Jiqr4Q9A1zoaQ.png">
   <img align="center" alt="Docker" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="TypeScript" height="30" width="35"  src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
-</div>
+</div> -->
 
 ##
    
