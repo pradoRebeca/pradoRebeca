@@ -1,7 +1,5 @@
 ### Olá, eu sou a Rebeca Prado 👋
 - 🌱 Técnica em Desenvolvimento de Sistemas - SENAI Prof. Vicente Amato Jandira
-- 🌱 Desenvolvedora Junior na Empresa AdviseU
-
 
 <div align="center">
   <a href="https://github.com/pradoRebeca">
