@@ -1,10 +1,10 @@
 
-  <h2>Olá, eu sou a Rebeca Prado 👋 </h3>
+  <h2>Helo, I'm Rebeca Prado 👋 </h3>
 
-  <p> Bem vindo(a) ao meu perfil profissional. Sou técnica em Desenvolvimento de Sistemas, formada através do Senai Professor Vicente Amaro em Jandira.</p>
+  <p>Welcome to my professional profile. I am a Systems Development technician, graduated from Senai Professor Vicente Amaro in Jandira.</p>
 
 ##
-  <h3 align="center">⚡Aqui está as principais tecnologias que irá encontrar por aqui⚡</h3>
+  <h3 align="center">⚡Here are the main technologies you will find here⚡</h3>
 
    <div style="display: inline_block" align="center">
     <img align="center" alt="Java" height="45"  src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png">
@@ -16,7 +16,7 @@
 ##
   <br/>
 
-  <p>Fique a vontade para conhecer meus projetos, todos os repositórios contém videos curtos demonstrando as principais funcionalidades das aplicações. 😄 </p>
+  <p>Feel free to check out my projects, all repositories contain short videos demonstrating the main features of the applications.😄 </p>
 
 ##
   <div>
