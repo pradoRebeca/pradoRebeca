@@ -27,7 +27,7 @@
 <p>Feel free to check out my projects, all repositories contain short videos demonstrating the main features of the applications.😄 </p>
 
 * <a href="https://github.com/pradoRebeca/todo_app"> Todo APP <a/>
-* <a href="https://github.com/pradoRebeca/pinterest_app"> Panucci Delivery <a/>
+* <a href="https://github.com/pradoRebeca/panucci_delivery_app"> Panucci Delivery <a/>
 * <a href="https://github.com/pradoRebeca/clean_architecture_hyrule_app"> Hyrule APP <a/>
 
 <!--
